@@ -3,27 +3,27 @@
   "note": "자동 처리(totaldu 스크립트): teams[].short가 null이면 LPL #5·#6(대표 선발전), LEC·LCS·CBLOL #N(현 스플릿 플레이오프 최종순위)으로 자동 채움. prev의 \"Mx:W/L\"은 해당 경기 winner 입력 시 a/b 자동 채움. 1-0·0-1 라운드(M7-M12)와 녹아웃 8강(M21-M24)은 추첨이라 a/b 직접 입력.",
   "format": "온라인 그룹 스테이지 (더블 엘리미네이션식) → 오프라인 녹아웃 (8팀 싱글 엘리미네이션 Bo5)",
   "teams": [
-    { "slot": "TEAM1",  "seed": "LPL #5",   "short": null },
-    { "slot": "TEAM2",  "seed": "LPL #6",   "short": null },
+    { "slot": "TEAM1",  "seed": "LPL #5",   "short": "JDG" },
+    { "slot": "TEAM2",  "seed": "LPL #6",   "short": "WE" },
     { "slot": "TEAM3",  "seed": "LPL #7",   "short": "LGD" },
     { "slot": "TEAM4",  "seed": "LCK #5",   "short": "KT" },
     { "slot": "TEAM5",  "seed": "LCK #6",   "short": "BFX" },
     { "slot": "TEAM6",  "seed": "LCK #7",   "short": "BRO" },
-    { "slot": "TEAM7",  "seed": "LEC #4",   "short": null },
+    { "slot": "TEAM7",  "seed": "LEC #4",   "short": "NAVI" },
     { "slot": "TEAM8",  "seed": "LEC #5",   "short": "VIT" },
-    { "slot": "TEAM9",  "seed": "LCS #4",   "short": null },
-    { "slot": "TEAM10", "seed": "LCS #5",   "short": null },
+    { "slot": "TEAM9",  "seed": "LCS #4",   "short": "SR" },
+    { "slot": "TEAM10", "seed": "LCS #5",   "short": "FLY" },
     { "slot": "TEAM11", "seed": "LCP #4",   "short": "GAM" },
-    { "slot": "TEAM12", "seed": "CBLOL #4", "short": null }
+    { "slot": "TEAM12", "seed": "CBLOL #4", "short": "RED" }
   ],
   "group": {
     "matches": [
-      { "id": "M1", "day": "10-03", "time": "17:00", "format": "Bo1", "bracket": "0-0", "a": "SR", "b": "KT", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
-      { "id": "M2", "day": "10-03", "time": "18:00", "format": "Bo1", "bracket": "0-0", "a": "BRO", "b": "JDG", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
-      { "id": "M3", "day": "10-03", "time": "19:00", "format": "Bo1", "bracket": "0-0", "a": "VIT", "b": "BFX", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
-      { "id": "M4", "day": "10-03", "time": "20:00", "format": "Bo1", "bracket": "0-0", "a": "LGD", "b": "FLY", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
+      { "id": "M1", "day": "10-03", "time": "17:00", "format": "Bo1", "bracket": "0-0", "a": "RED", "b": "NAVI", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
+      { "id": "M2", "day": "10-03", "time": "18:00", "format": "Bo1", "bracket": "0-0", "a": "LGD", "b": "FLY", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
+      { "id": "M3", "day": "10-03", "time": "19:00", "format": "Bo1", "bracket": "0-0", "a": "SR", "b": "KT", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
+      { "id": "M4", "day": "10-03", "time": "20:00", "format": "Bo1", "bracket": "0-0", "a": "VIT", "b": "BFX", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
       { "id": "M5", "day": "10-03", "time": "21:00", "format": "Bo1", "bracket": "0-0", "a": "GAM", "b": "WE", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
-      { "id": "M6", "day": "10-03", "time": "22:00", "format": "Bo1", "bracket": "0-0", "a": "RED", "b": "NAVI", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
+      { "id": "M6", "day": "10-03", "time": "22:00", "format": "Bo1", "bracket": "0-0", "a": "BRO", "b": "JDG", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
 
       { "id": "M7", "day": "10-04", "format": "Bo3", "bracket": "1-0", "prev": { "a": null, "b": null }, "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
       { "id": "M8", "day": "10-04", "format": "Bo3", "bracket": "1-0", "prev": { "a": null, "b": null }, "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
