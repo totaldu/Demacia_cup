@@ -25,24 +25,24 @@
       { "id": "M5", "day": "10-03", "time": "21:00", "format": "Bo1", "bracket": "0-0", "a": "GAM", "b": "WE", "scoreA": 0, "scoreB": 1, "winner": "WE", "state": "scheduled" },
       { "id": "M6", "day": "10-03", "time": "22:00", "format": "Bo1", "bracket": "0-0", "a": "BRO", "b": "JDG", "scoreA": 1, "scoreB": 0, "winner": "BRO", "state": "scheduled" },
 
-      { "id": "M7", "day": "10-04", "time": "16:00", "format": "Bo3", "bracket": "1-0", "prev": { "a": null, "b": null }, "a": "LGD", "b": "BFX", "scoreA": 1, "scoreB": 2, "winner": "BFX", "state": "scheduled" },
-      { "id": "M8", "day": "10-04", "time": "18:00", "format": "Bo3", "bracket": "1-0", "prev": { "a": null, "b": null }, "a": "RED", "b": "KT", "scoreA": 0, "scoreB": 2, "winner": "KT", "state": "scheduled" },
-      { "id": "M9", "day": "10-04", "time": "20:00", "format": "Bo3", "bracket": "1-0", "prev": { "a": null, "b": null }, "a": "WE", "b": "BRO", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
+      { "id": "M7", "day": "10-04", "time": "16:00", "format": "Bo3", "bracket": "1-0", "a": "LGD", "b": "BFX", "scoreA": 1, "scoreB": 2, "winner": "BFX", "state": "scheduled" },
+      { "id": "M8", "day": "10-04", "time": "18:00", "format": "Bo3", "bracket": "1-0", "a": "RED", "b": "KT", "scoreA": 0, "scoreB": 2, "winner": "KT", "state": "scheduled" },
+      { "id": "M9", "day": "10-04", "time": "20:00", "format": "Bo3", "bracket": "1-0", "a": "WE", "b": "BRO", "scoreA": 2, "scoreB": 1, "winner": "WE", "state": "scheduled" },
 
-      { "id": "M10", "day": "10-05", "time": "16:00", "format": "Bo3", "bracket": "0-1", "prev": { "a": null, "b": null }, "a": "GAM", "b": "VIT", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
-      { "id": "M11", "day": "10-05", "time": "18:00", "format": "Bo3", "bracket": "0-1", "prev": { "a": null, "b": null }, "a": "NAVI", "b": "FLY", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
-      { "id": "M12", "day": "10-05", "time": "20:00", "format": "Bo3", "bracket": "0-1", "prev": { "a": null, "b": null }, "a": "SR", "b": "JDG", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
+      { "id": "M10", "day": "10-05", "time": "16:00", "format": "Bo3", "bracket": "0-1", "a": "GAM", "b": "VIT", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
+      { "id": "M11", "day": "10-05", "time": "18:00", "format": "Bo3", "bracket": "0-1", "a": "NAVI", "b": "FLY", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
+      { "id": "M12", "day": "10-05", "time": "20:00", "format": "Bo3", "bracket": "0-1", "a": "SR", "b": "JDG", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
 
-      { "id": "M13", "day": "10-06", "format": "Bo3", "bracket": "1-1", "prev": { "a": null, "b": null }, "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
-      { "id": "M14", "day": "10-06", "format": "Bo3", "bracket": "1-1", "prev": { "a": null, "b": null }, "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
-      { "id": "M15", "day": "10-06", "format": "Bo3", "bracket": "1-1", "prev": { "a": null, "b": null }, "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
+      { "id": "M13", "day": "10-06", "format": "Bo3", "bracket": "1-1", "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
+      { "id": "M14", "day": "10-06", "format": "Bo3", "bracket": "1-1", "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
+      { "id": "M15", "day": "10-06", "format": "Bo3", "bracket": "1-1", "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
 
-      { "id": "M16", "day": "10-07", "format": "Bo3", "bracket": "0-2 RR", "prev": { "a": null, "b": null }, "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
-      { "id": "M17", "day": "10-07", "format": "Bo3", "bracket": "0-2 RR", "prev": { "a": null, "b": null }, "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
-      { "id": "M18", "day": "10-07", "format": "Bo3", "bracket": "0-2 RR", "prev": { "a": null, "b": null }, "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
+      { "id": "M16", "day": "10-07", "format": "Bo3", "bracket": "0-2 RR", "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
+      { "id": "M17", "day": "10-07", "format": "Bo3", "bracket": "0-2 RR", "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
+      { "id": "M18", "day": "10-07", "format": "Bo3", "bracket": "0-2 RR", "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
 
-      { "id": "M19", "day": "10-08", "format": "Bo3", "bracket": "1-2 & 0-2 1st", "prev": { "a": null, "b": null }, "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
-      { "id": "M20", "day": "10-08", "format": "Bo3", "bracket": "1-2 & 0-2 1st", "prev": { "a": null, "b": null }, "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" }
+      { "id": "M19", "day": "10-08", "format": "Bo3", "bracket": "1-2 & 0-2 1st", "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
+      { "id": "M20", "day": "10-08", "format": "Bo3", "bracket": "1-2 & 0-2 1st", "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" }
     ],
     "advancing": {
       "note": "8팀 진출: M7-M9 승자 3팀 (1-0) + M13-M15 승자 3팀 (1-1) + M19-M20 승자 2팀 (1-2 & 0-2 1st). 탈락: M16-M18 2·3위 + M19-M20 패자.",
