@@ -37,8 +37,8 @@
       { "id": "M14", "day": "10-06", "time": "18:00", "format": "Bo3", "bracket": "1-1", "a": "VIT", "b": "RED", "scoreA": 2, "scoreB": 0, "winner": "VIT", "state": "scheduled" },
       { "id": "M15", "day": "10-06", "time": "20:00", "format": "Bo3", "bracket": "1-1", "a": "JDG", "b": "LGD", "scoreA": 0, "scoreB": 2, "winner": "LGD", "state": "scheduled" },
 
-      { "id": "M16", "day": "10-07", "time": "16:00", "format": "Bo3", "bracket": "0-2 RR", "a": "GAM", "b": "FLY", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
-      { "id": "M17", "day": "10-07", "time": "18:00", "format": "Bo3", "bracket": "0-2 RR", "a": "SR", "b": "GAM", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
+      { "id": "M16", "day": "10-07", "time": "16:00", "format": "Bo3", "bracket": "0-2 RR", "a": "GAM", "b": "FLY", "scoreA": 0, "scoreB": 2, "winner": "FLY", "state": "scheduled" },
+      { "id": "M17", "day": "10-07", "time": "18:00", "format": "Bo3", "bracket": "0-2 RR", "a": "SR", "b": "GAM", "scoreA": 2, "scoreB": 0, "winner": "SR", "state": "scheduled" },
       { "id": "M18", "day": "10-07", "time": "20:00", "format": "Bo3", "bracket": "0-2 RR", "a": "FLY", "b": "SR", "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
 
       { "id": "M19", "day": "10-08", "format": "Bo3", "bracket": "1-2 & 0-2 1st", "a": null, "b": null, "scoreA": null, "scoreB": null, "winner": null, "state": "scheduled" },
